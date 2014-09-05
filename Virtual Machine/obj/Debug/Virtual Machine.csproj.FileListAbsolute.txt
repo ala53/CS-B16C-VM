@@ -1,0 +1,10 @@
+C:\Users\Alastair\AppData\Local\Temporary Projects\Virtual Machine\bin\Debug\Virtual Machine.exe.config
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\bin\Debug\Virtual Machine.exe.config
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\obj\Debug\Virtual Machine.csprojResolveAssemblyReference.cache
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\bin\Debug\Virtual Machine.exe
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\bin\Debug\Virtual Machine.pdb
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\obj\Debug\Virtual Machine.exe
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\obj\Debug\Virtual Machine.pdb
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\obj\Debug\Virtual_Machine.Screen.resources
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\obj\Debug\Virtual Machine.csproj.GenerateResource.Cache
+C:\Users\Alastair\Documents\Visual Studio 2013\Projects\Virtual Machine\Virtual Machine\bin\Debug\TESTASSEMBLER.b16asm

@@ -1,0 +1,7 @@
+﻿DATA 0x5656 0x0CAFECODEADDDATA //Store these 8 bytes in memory at 0x5656
+Start: //The program label
+ LD A @A //Load the A register with the ASCII value of ‘A’
+ LD X 0xF7FF //Load the X Register with the top left block of the screen
+ ST A ,X //STORE A into the memory address provided by register X
+ JMP Start //Restart program
+ END //and end
